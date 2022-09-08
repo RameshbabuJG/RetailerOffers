@@ -1,0 +1,9 @@
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\obj\Debug\netcoreapp3.1\RetailerOffers.csprojAssemblyReference.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\obj\Debug\netcoreapp3.1\RetailerOffers.AssemblyInfoInputs.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\obj\Debug\netcoreapp3.1\RetailerOffers.AssemblyInfo.cs
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\obj\Debug\netcoreapp3.1\RetailerOffers.RazorTargetAssemblyInfo.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\obj\Debug\netcoreapp3.1\staticwebassets\RetailerOffers.StaticWebAssets.Manifest.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\obj\Debug\netcoreapp3.1\staticwebassets\RetailerOffers.StaticWebAssets.xml

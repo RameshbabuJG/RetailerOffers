@@ -1,0 +1,317 @@
+[
+  {
+    "TransactionId": 1,
+    "TransactionAmount": 185,
+    "RewardPoints": 220,
+    "CustomerId": 100,
+    "TransactionDate": "06/25/2022"
+  },
+  {
+    "TransactionId": 2,
+    "TransactionAmount": 115,
+    "RewardPoints": 80,
+    "CustomerId": 100,
+    "TransactionDate": "06/26/2022"
+  },
+  {
+    "TransactionId": 3,
+    "TransactionAmount": 674,
+    "RewardPoints": 1198,
+    "CustomerId": 100,
+    "TransactionDate": "06/27/2022"
+  },
+  {
+    "TransactionId": 4,
+    "TransactionAmount": 322,
+    "RewardPoints": 494,
+    "CustomerId": 100,
+    "TransactionDate": "06/28/2022"
+  },
+  {
+    "TransactionId": 5,
+    "TransactionAmount": 1016,
+    "RewardPoints": 1882,
+    "CustomerId": 100,
+    "TransactionDate": "06/01/2022"
+  },
+  {
+    "TransactionId": 6,
+    "TransactionAmount": 16,
+    "RewardPoints": 0,
+    "CustomerId": 100,
+    "TransactionDate": "08/02/2022"
+  },
+  {
+    "TransactionId": 7,
+    "TransactionAmount": 181,
+    "RewardPoints": 212,
+    "CustomerId": 100,
+    "TransactionDate": "08/03/2022"
+  },
+  {
+    "TransactionId": 8,
+    "TransactionAmount": 3,
+    "RewardPoints": 0,
+    "CustomerId": 100,
+    "TransactionDate": "08/04/2022"
+  },
+  {
+    "TransactionId": 9,
+    "TransactionAmount": 120,
+    "RewardPoints": 90,
+    "CustomerId": 100,
+    "TransactionDate": "08/05/2022"
+  },
+  {
+    "TransactionId": 10,
+    "TransactionAmount": 558,
+    "RewardPoints": 966,
+    "CustomerId": 100,
+    "TransactionDate": "08/06/2022"
+  },
+  {
+    "TransactionId": 11,
+    "TransactionAmount": 797,
+    "RewardPoints": 1444,
+    "CustomerId": 100,
+    "TransactionDate": "08/07/2022"
+  },
+  {
+    "TransactionId": 12,
+    "TransactionAmount": 469,
+    "RewardPoints": 788,
+    "CustomerId": 100,
+    "TransactionDate": "08/08/2022"
+  },
+  {
+    "TransactionId": 13,
+    "TransactionAmount": 124,
+    "RewardPoints": 98,
+    "CustomerId": 100,
+    "TransactionDate": "08/09/2022"
+  },
+  {
+    "TransactionId": 14,
+    "TransactionAmount": 234,
+    "RewardPoints": 318,
+    "CustomerId": 100,
+    "TransactionDate": "08/10/2022"
+  },
+  {
+    "TransactionId": 15,
+    "TransactionAmount": 1081,
+    "RewardPoints": 2012,
+    "CustomerId": 100,
+    "TransactionDate": "08/11/2022"
+  },
+  {
+    "TransactionId": 16,
+    "TransactionAmount": 1126,
+    "RewardPoints": 2102,
+    "CustomerId": 100,
+    "TransactionDate": "08/12/2022"
+  },
+  {
+    "TransactionId": 17,
+    "TransactionAmount": 224,
+    "RewardPoints": 298,
+    "CustomerId": 100,
+    "TransactionDate": "08/13/2022"
+  },
+  {
+    "TransactionId": 18,
+    "TransactionAmount": 435,
+    "RewardPoints": 720,
+    "CustomerId": 100,
+    "TransactionDate": "08/14/2022"
+  },
+  {
+    "TransactionId": 19,
+    "TransactionAmount": 1049,
+    "RewardPoints": 1948,
+    "CustomerId": 100,
+    "TransactionDate": "08/15/2022"
+  },
+  {
+    "TransactionId": 20,
+    "TransactionAmount": 781,
+    "RewardPoints": 1412,
+    "CustomerId": 100,
+    "TransactionDate": "08/16/2022"
+  },
+  {
+    "TransactionId": 21,
+    "TransactionAmount": 982,
+    "RewardPoints": 1814,
+    "CustomerId": 100,
+    "TransactionDate": "08/17/2022"
+  },
+  {
+    "TransactionId": 22,
+    "TransactionAmount": 585,
+    "RewardPoints": 1020,
+    "CustomerId": 100,
+    "TransactionDate": "08/18/2022"
+  },
+  {
+    "TransactionId": 23,
+    "TransactionAmount": 583,
+    "RewardPoints": 1016,
+    "CustomerId": 100,
+    "TransactionDate": "08/19/2022"
+  },
+  {
+    "TransactionId": 24,
+    "TransactionAmount": 1097,
+    "RewardPoints": 2044,
+    "CustomerId": 100,
+    "TransactionDate": "08/20/2022"
+  },
+  {
+    "TransactionId": 25,
+    "TransactionAmount": 127,
+    "RewardPoints": 104,
+    "CustomerId": 100,
+    "TransactionDate": "08/21/2022"
+  },
+  {
+    "TransactionId": 26,
+    "TransactionAmount": 218,
+    "RewardPoints": 286,
+    "CustomerId": 100,
+    "TransactionDate": "08/22/2022"
+  },
+  {
+    "TransactionId": 27,
+    "TransactionAmount": 467,
+    "RewardPoints": 784,
+    "CustomerId": 100,
+    "TransactionDate": "08/23/2022"
+  },
+  {
+    "TransactionId": 28,
+    "TransactionAmount": 521,
+    "RewardPoints": 892,
+    "CustomerId": 100,
+    "TransactionDate": "08/24/2022"
+  },
+  {
+    "TransactionId": 29,
+    "TransactionAmount": 618,
+    "RewardPoints": 1086,
+    "CustomerId": 100,
+    "TransactionDate": "08/25/2022"
+  },
+  {
+    "TransactionId": 30,
+    "TransactionAmount": 986,
+    "RewardPoints": 1822,
+    "CustomerId": 100,
+    "TransactionDate": "08/26/2022"
+  },
+  {
+    "TransactionId": 31,
+    "TransactionAmount": 1105,
+    "RewardPoints": 2060,
+    "CustomerId": 100,
+    "TransactionDate": "08/27/2022"
+  },
+  {
+    "TransactionId": 32,
+    "TransactionAmount": 723,
+    "RewardPoints": 1296,
+    "CustomerId": 100,
+    "TransactionDate": "08/28/2022"
+  },
+  {
+    "TransactionId": 33,
+    "TransactionAmount": 533,
+    "RewardPoints": 916,
+    "CustomerId": 100,
+    "TransactionDate": "08/29/2022"
+  },
+  {
+    "TransactionId": 34,
+    "TransactionAmount": 24,
+    "RewardPoints": 0,
+    "CustomerId": 100,
+    "TransactionDate": "08/30/2022"
+  },
+  {
+    "TransactionId": 35,
+    "TransactionAmount": 30,
+    "RewardPoints": 0,
+    "CustomerId": 100,
+    "TransactionDate": "08/31/2022"
+  },
+  {
+    "TransactionId": 36,
+    "TransactionAmount": 531,
+    "RewardPoints": 912,
+    "CustomerId": 100,
+    "TransactionDate": "04/01/2022"
+  },
+  {
+    "TransactionId": 37,
+    "TransactionAmount": 1142,
+    "RewardPoints": 2134,
+    "CustomerId": 100,
+    "TransactionDate": "04/02/2022"
+  },
+  {
+    "TransactionId": 38,
+    "TransactionAmount": 1030,
+    "RewardPoints": 1910,
+    "CustomerId": 100,
+    "TransactionDate": "04/03/2022"
+  },
+  {
+    "TransactionId": 39,
+    "TransactionAmount": 1241,
+    "RewardPoints": 2332,
+    "CustomerId": 100,
+    "TransactionDate": "04/04/2022"
+  },
+  {
+    "TransactionId": 40,
+    "TransactionAmount": 833,
+    "RewardPoints": 1516,
+    "CustomerId": 100,
+    "TransactionDate": "04/05/2022"
+  },
+  {
+    "TransactionId": 41,
+    "TransactionAmount": 1242,
+    "RewardPoints": 2334,
+    "CustomerId": 100,
+    "TransactionDate": "04/06/2022"
+  },
+  {
+    "TransactionId": 42,
+    "TransactionAmount": 93,
+    "RewardPoints": 43,
+    "CustomerId": 100,
+    "TransactionDate": "04/07/2022"
+  },
+  {
+    "TransactionId": 43,
+    "TransactionAmount": 229,
+    "RewardPoints": 308,
+    "CustomerId": 100,
+    "TransactionDate": "04/08/2022"
+  },
+  {
+    "TransactionId": 44,
+    "TransactionAmount": 101,
+    "RewardPoints": 52,
+    "CustomerId": 100,
+    "TransactionDate": "04/09/2022"
+  },
+  {
+    "TransactionId": 45,
+    "TransactionAmount": 744,
+    "RewardPoints": 1338,
+    "CustomerId": 100,
+    "TransactionDate": "04/10/2022"
+  }
+]

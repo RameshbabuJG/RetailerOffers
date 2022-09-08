@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3ZnXPI8QBMIgOPjzhnQShsAZtJyORePzp18Jm9c87CauNg1I3sl4yGe44zpEmgdK13rBQs+i0lmh9DjyLDyzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\RetailerOffers.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\J.G.Rameshbabu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

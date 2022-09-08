@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Api\\RetailerOffers.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Api\\RetailerOffers.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Api\\RetailerOffers.Api.csproj",
+        "projectName": "RetailerOffers.Api",
+        "projectPath": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Api\\RetailerOffers.Api.csproj",
+        "packagesPath": "C:\\Users\\J.G.Rameshbabu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\J.G.Rameshbabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\RetailerOffers.Business.csproj": {
+                "projectPath": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\RetailerOffers.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\RetailerOffers.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\RetailerOffers.Business.csproj",
+        "projectName": "RetailerOffers.Business",
+        "projectPath": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\RetailerOffers.Business.csproj",
+        "packagesPath": "C:\\Users\\J.G.Rameshbabu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J.G.Rameshbabu\\source\\repos\\RetailerOffers2\\RetailerOffers.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\J.G.Rameshbabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

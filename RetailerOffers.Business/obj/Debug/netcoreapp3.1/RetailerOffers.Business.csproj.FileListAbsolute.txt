@@ -1,0 +1,17 @@
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.AssemblyInfoInputs.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.AssemblyInfo.cs
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.csproj.CoreCompileInputs.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\bin\Debug\netcoreapp3.1\RetailerOffers.Business.deps.json
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\bin\Debug\netcoreapp3.1\RetailerOffers.Business.dll
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\bin\Debug\netcoreapp3.1\RetailerOffers.Business.pdb
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.dll
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.pdb
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\bin\Debug\netcoreapp3.1\RetailerOffers.Business.deps.json
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\bin\Debug\netcoreapp3.1\RetailerOffers.Business.dll
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\bin\Debug\netcoreapp3.1\RetailerOffers.Business.pdb
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.csprojAssemblyReference.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.AssemblyInfoInputs.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.AssemblyInfo.cs
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.csproj.CoreCompileInputs.cache
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.dll
+C:\Users\J.G.Rameshbabu\source\repos\RetailerOffers2\RetailerOffers.Business\obj\Debug\netcoreapp3.1\RetailerOffers.Business.pdb

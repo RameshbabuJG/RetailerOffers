@@ -1,0 +1,15 @@
+[
+  {
+    "CustomerId": 100,
+    "CustomerName": "John"
+  },
+  {
+    "CustomerId": 101,
+    "CustomerName": "Lisa"
+  },
+  {
+    "CustomerId": 102,
+    "CustomerName": "Selene"
+  }
+]
+  
